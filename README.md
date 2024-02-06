@@ -1,9 +1,10 @@
 <div class="data" align="center" dir="auto"><a herf="#"><img src="12.gif" alt="" height="300px"></a></div>
 <hr>
 </div>
-<p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=50&pause=1000&color=FF033E&random=false&width=435&lines=Hey+!+%F0%9F%91%8B+I+am+Vivek+Kumar+Tiwari+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;I+am+a+%F0%9F%8E%93+Full-stack+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%A4%93+Curious+to+learn+new+things+%E2%9C%A8" alt="Typing SVG" /></a></p>
-<hr>
 
+<p align="center" dir="auto"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=1&size=30&pause=1000&color=FF033E&random=false&width=435&lines=Hey+!+%F0%9F%91%8B+I+am+Vivek+Kumar+Tiwari+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;I+am+a+%F0%9F%8E%93+Full-stack+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%A4%93+Curious+to+learn+new+things+%E2%9C%A8" alt="Typing SVG" /></a></p>
+
+<hr>
 <h2>✨About Me ❤️</h2>
 <h4>As A🤓Software Developer, I am passionate about building innovative and high-quality software
                             solutions that meet the needs of businesses and individuals. I have a strong foundation in
