@@ -77,14 +77,27 @@
 
 <hr>
 <h2 dir="auto>Top Repositories 📂</h2>
-
-
+<p dir="auto">
+    <a href="https://github.com/shikhu51197/UsedCarbuyAssign">
+        <img align="center" src="https://camo.githubusercontent.com/8ac88ee193b58af1c8206e512518b33618e9f32455ac78e4572cb9a9512a90a7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7368696b68753531313937267265706f3d5573656443617262757941737369676e266c6f63616c653d656e26626f726465725f7261646975733d30267468656d653d6461726b" alt="shikhu51197" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&amp;repo=UsedCarbuyAssign&amp;locale=en&amp;border_radius=0&amp;theme=dark" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/shikhu51197/Mini-Projects">
+        <img align="center" src="https://camo.githubusercontent.com/0272a30113d6f9c8fc6040b0f7477798cfc06de908c0221d843026a8136a9993/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7368696b68753531313937267265706f3d4d696e692d50726f6a65637473266c6f63616c653d656e26626f726465725f7261646975733d30267468656d653d6461726b" alt="shikhu51197" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&amp;repo=Mini-Projects&amp;locale=en&amp;border_radius=0&amp;theme=dark" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/shikhu51197/Communication_Bridge">
+        <img align="center" src="https://camo.githubusercontent.com/691c0ade89ee314cdb1c5e72f781364578810581745f490c0a075688030d94c6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7368696b68753531313937267265706f3d436f6d6d756e69636174696f6e5f427269646765266c6f63616c653d656e26626f726465725f7261646975733d30267468656d653d6461726b" alt="shikhu51197" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&amp;repo=Communication_Bridge&amp;locale=en&amp;border_radius=0&amp;theme=dark" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/shikhu51197/Chanda_kaudi_game">
+        <img align="center" src="https://camo.githubusercontent.com/5127ed8e97033b1374178751f23db085d1a8fabb1dd3b276db732eaa5b98523c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7368696b68753531313937267265706f3d4368616e64615f6b617564695f67616d65266c6f63616c653d656e26626f726465725f7261646975733d30267468656d653d6461726b" alt="shikhu51197" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&amp;repo=Chanda_kaudi_game&amp;locale=en&amp;border_radius=0&amp;theme=dark" style="max-width: 100%;"> 
+    </a>
+</p>
+<hr>
+<h3 dir="auto"><a id="user-content-️-random-dev-quote" class="anchor" aria-hidden="true" tabindex="-1" href="#️-random-dev-quote"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>✍️ Random Dev Quote</h3>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/514a316f55ee7423454e2bc9fd9dd323b8d553be0d6a6fee9e0da733d0549c08/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d7665746963616c267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/514a316f55ee7423454e2bc9fd9dd323b8d553be0d6a6fee9e0da733d0549c08/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d7665746963616c267468656d653d7261646963616c" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=vetical&amp;theme=radical" style="max-width: 100%;"></a></p>
 <hr>
 <h2 align="center" dir="auto"><a id="user-content--thank-you-" class="anchor" aria-hidden="true" tabindex="-1" href="#-thank-you-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
 🙂 THANK YOU 🙂
 </h2>	
 <hr>
-
-    
 
 
