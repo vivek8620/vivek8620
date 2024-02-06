@@ -26,7 +26,6 @@
 <hr>
 
 <h2>🔗Profile Links✨</h2>
-<div alt="" width="100%">
 <table>
 <thead>
 <tr>
@@ -49,4 +48,4 @@
 </tr>
 </tbody>
 </table>
-</div>
+
