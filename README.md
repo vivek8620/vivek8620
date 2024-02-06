@@ -26,7 +26,8 @@
 <hr>
 
 <h2>🔗Profile Links✨</h2>
-<div class="data" align="center" dir="auto"><a herf="#"><img src="13.gif"></a></div>
+<div class="data"><a herf="#"><img src="13.gif"></a></div>
+</br>
 <table>
 <thead>
 <tr>
