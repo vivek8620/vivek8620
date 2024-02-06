@@ -33,8 +33,6 @@
 <th>Github</th>
 <th>Linkedin</th>
 <th>Portfolio</th>
-<th>Blogger</th>
-<th>Medium</th>
 </tr>
 </thead>
 <tbody>
