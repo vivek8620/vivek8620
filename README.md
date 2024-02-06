@@ -68,3 +68,36 @@
 </ol>
 <hr>
 
+<h2 dir="auto">My top projects</h2>
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/107506646/277670661-434e9318-2e87-4645-b401-06dbe2cc0069.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyMDI4MTgsIm5iZiI6MTcwNzIwMjUxOCwicGF0aCI6Ii8xMDc1MDY2NDYvMjc3NjcwNjYxLTQzNGU5MzE4LTJlODctNDY0NS1iNDAxLTA2ZGJlMmNjMDA2OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwNlQwNjU1MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZGRiNjk3ODAxZDJjZmExYTU1ZjVjZjc2NTM3NDZkMjcxMGJiMmJlOTJkOGUxNzMwOWFkYjBlMjU2OWQzOWNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.zwKUxA0Wslnxw6Bz-k8p0exBjyPz-HEeaTYHXMRAbgQ"><img src="https://private-user-images.githubusercontent.com/107506646/277670661-434e9318-2e87-4645-b401-06dbe2cc0069.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyMDI4MTgsIm5iZiI6MTcwNzIwMjUxOCwicGF0aCI6Ii8xMDc1MDY2NDYvMjc3NjcwNjYxLTQzNGU5MzE4LTJlODctNDY0NS1iNDAxLTA2ZGJlMmNjMDA2OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwNlQwNjU1MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZGRiNjk3ODAxZDJjZmExYTU1ZjVjZjc2NTM3NDZkMjcxMGJiMmJlOTJkOGUxNzMwOWFkYjBlMjU2OWQzOWNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.zwKUxA0Wslnxw6Bz-k8p0exBjyPz-HEeaTYHXMRAbgQ" alt="beam-web-design-program-on-laptop-screen" data-animated-image="" style="max-width: 100%;"></a></p>
+<p align="left" dir="auto">
+    <a href="https://github.com/shikhu51197/UsedCarbuyAssign">
+        <img src="https://camo.githubusercontent.com/f9be6b03a48d2459b9f96e03e0d2cff94cabca026ba973af8622c62eff3f2355/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5365636f6e645f48616e645f43617226636f6c6f723d303030303030266c6f676f3d4e696b65266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Second_Hand_Car-Clone" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Second_Hand_Car&amp;color=000000&amp;logo=Nike&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/shikhu51197/clonehome">
+        <img src="https://camo.githubusercontent.com/80134b34cae1707169ac488fbb2f7dcdbcf1a6ae14b35c8cf8a3a7ec8a3001ec/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6769742d4e6574776973745f4c61796f757426636f6c6f723d314242393146266c6f676f3d746d7578266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="git-Netwist_Layout" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=git-Netwist_Layout&amp;color=1BB91F&amp;logo=tmux&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/shikhu51197/layoutassign">
+        <img src="https://camo.githubusercontent.com/69317c3a77dd04b0164082e45b3de6222dbdca877be29f0f0b48dc2b6d9ed1b7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d656e746f722041707026636f6c6f723d464433413543266c6f676f3d686f746a6172266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="mentor-App" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Mentor App&amp;color=FD3A5C&amp;logo=hotjar&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/shikhu51197/Communication_Bridge">
+        <img src="https://camo.githubusercontent.com/a789dbcdd9b07a60092579d4b75b9d29c09a6790ccc2fc664ff5de6a5155a57d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5472616e736c6174696f6e2041707026636f6c6f723d383430303130266c6f676f3d5369676e616c266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Translation-App" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Translation App&amp;color=840010&amp;logo=Signal&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/shikhu51197/Courseassign">
+        <img src="https://camo.githubusercontent.com/7b38c1f66e1eb138827120de6a87821836bc7ecd291c450ad85d6641238817bd/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4b68757368626f6f20436f757273652041707026636f6c6f723d316137386634266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Khushboo Course App" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Khushboo Course App&amp;color=1a78f4&amp;logo=facebook&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/shikhu51197/Chanda_kaudi_game">
+        <img src="https://camo.githubusercontent.com/5d57d15ad622ae938980f3212231f36c02d9b60b1711077f3b6e71d677554e5d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4368616e64615f6b617564695f67616d6526636f6c6f723d374131464132266c6f676f3d666f6f6470616e6461266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Chanda_kaudi_game" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Chanda_kaudi_game&amp;color=7A1FA2&amp;logo=foodpanda&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/shikhu51197/Advance-UI-Projects">
+        <img src="https://camo.githubusercontent.com/5a249340644c36c1de25edfc30720917b862f629289937a3e4c0f585112a1e0a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416476616e63652d55492d50726f6a6563747326636f6c6f723d453630303132266c6f676f3d737461646961266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Advance-UI-Projects" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Advance-UI-Projects&amp;color=E60012&amp;logo=stadia&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;">
+    </a>
+    <a href="https://github.com/shikhu51197/Mini-Projects">
+        <img src="https://camo.githubusercontent.com/2ed4cd581068f01a5f77968d23d57974c6c0064d459b40bd840febb181491665/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d696e692d50726f6a6563747326636f6c6f723d303030303030266c6f676f3d416469646173266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Mini-Projects" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Mini-Projects&amp;color=000000&amp;logo=Adidas&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;">
+    </a>
+</p>
+<br>
+
+
+
