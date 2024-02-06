@@ -1,4 +1,4 @@
-<div class="data" align="center" dir="auto"><a herf="#"><img src="12.gif" alt="" height="300px" width="500"></a></div>
+<div class="data" align="center" dir="auto"><a herf="#"><img src="12.gif" alt="" height="300px" width="450"></a></div>
 <hr>
 </div>
 
@@ -28,7 +28,7 @@
 <h2>🔗Profile Links✨</h2>
 <div class="data"><a herf="#"><img src="13.gif"></a></div>
 </br>
-<table width="20000">
+<table>
 <thead>
 <tr>
 <th>Resume</th>
