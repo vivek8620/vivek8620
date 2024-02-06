@@ -12,11 +12,11 @@
                             software development principles and practices, as well as experience in various
                             🛠️programming languages and.</h3>
                             
-<p>💻In my work, I prioritize collaboration and
+<h4>💻In my work, I prioritize collaboration and
                             communication with my team and stakeholders to ensure that the software🌟I develop meets
                             their expectations and requirements. I enjoy working in a fast-paced and challenging
                             environment, and I am committed to delivering high-quality software solutions that
-                            exceed📂client expectations.</p>
+                            exceed📂client expectations.</h4>
                             
 <p>🏅I Learnt Mearn Full Stack Web Development from Ducat IT Traning School🏡(India's first Skill
                             building School "Driven by Outcomes, Fuelled by Ambitions.")</br></p>
