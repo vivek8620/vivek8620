@@ -51,16 +51,10 @@
 </tbody>
 </table>
 <hr>
-<h3>🔗 💁‍♀️contact us:-</h3>
 
-<br>
-<p dir="auto">
-    <a title="tvivek2021@gmail.com" href="tvivek2021@gmail.com">
-        <img align="center" src="https://camo.githubusercontent.com/00ba247349356f2b560ce58661f0a89db9925bbbf852c4541f104aa175becdfa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6662636562313f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d666632303532" alt="sg780060@gmail.com" data-canonical-src="https://img.shields.io/badge/Gmail-fbceb1?style=for-the-badge&amp;logo=gmail&amp;logoColor=ff2052" style="max-width: 100%;">
-    </a>
-  </p>
-<hr>
-<h3 dir="auto"><a id="user-content-hobbies-and-interests-" class="anchor" aria-hidden="true" tabindex="-1" href="#hobbies-and-interests-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>⚡Hobbies and interests :</h3>
+<h3>⚡Hobbies and interests :</h3>
+
+
 <ol dir="auto">
 <li>
 <p dir="auto">Always interested in Coding &amp; new learnings 💫.</p>
