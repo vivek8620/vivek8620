@@ -2,9 +2,7 @@
 
 
 
- <div class="Box mt-4 profile-readme" >
-  <div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
+
       <div class="text-mono text-small mb-3">
         <a
           href="/shikhu51197/shikhu51197"
@@ -25,7 +23,7 @@
 
 
 
-<hr>
+
 </div>
 <p align="center" dir="auto">
   <i><a href="https://github.com/DenverCoder1/readme-typing-svg">
