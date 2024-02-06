@@ -77,6 +77,8 @@
 <hr>
 </br>
 <h2 dir="auto>Top Repositories 📂</h2>
+  <h2 dir="auto">💻 Tech Stack:</h2>
+</br>
 <p dir="auto">
     <a href="https://github.com/shikhu51197/UsedCarbuyAssign">
         <img align="center" src="https://camo.githubusercontent.com/8ac88ee193b58af1c8206e512518b33618e9f32455ac78e4572cb9a9512a90a7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d7368696b68753531313937267265706f3d5573656443617262757941737369676e266c6f63616c653d656e26626f726465725f7261646975733d30267468656d653d6461726b" alt="shikhu51197" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=shikhu51197&amp;repo=UsedCarbuyAssign&amp;locale=en&amp;border_radius=0&amp;theme=dark" style="max-width: 100%;">
