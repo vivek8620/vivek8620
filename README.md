@@ -1,4 +1,4 @@
-<a herf="[#](https://tenor.com/bNAhj.gif)"><center><img src="12.gif" style="max-width: 100%;"></center></a>
+<a herf="#" align="center" dir="auto"><img src="12.gif" style="max-width: 100%;"></a>
 <hr>
 
 
