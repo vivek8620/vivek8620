@@ -2,11 +2,7 @@
 <hr>
 </div>
 <p align="center" dir="auto">
-  <i><a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://camo.githubusercontent.com/3c6455fbf7b9f4e52c06f763971f956688d35371fddfeb4daf5397c295510597/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733d48657921f09f918b4920616d205368696b6861204775707461f09f91a9e2808df09f8e933b204920616d206120f09f8e9346756c6c2d737461636b253230776562253230646576656c6f70657220f09f91a8f09f8fbbe2808df09f92bb3b2049206c6f7665e29da4efb88f20746f20646f20636f6465f09f91a9e2808df09f92bb20696e20c2aeefb88f65f09f85b0efb88fc2a9efb88f74f09f92bb203bf09fa49320437572696f7573253230746f2532306c6561726e2532306e65772532307468696e6773e29ca8202126666f6e743d417269616c253230436f64652663656e7465723d747275652677696474683d31303030266865696768743d343026666f6e742d73697a653d3530252666616d696c793d4d6f6e747365727261743a776768744033303026636f6c6f723d6666303333652e267643656e7465723d747275652673697a653d32322670617573653d31303030" data-canonical-src="https://readme-typing-svg.demolab.com/?lines=Hey!👋I am Vivek Tiwari 🧑‍🎓; I am a 🎓Full-stack%20web%20developer 👨🏻‍💻; I love ❤️ to do code👩‍💻; Curious%20to%20learn%20new%20things✨ !&amp;font=Arial%20Code&amp;center=true&amp;width=1000&amp;height=40&amp;font-size=50%&amp;family=Montserrat:wght@300&amp;color=ff033e.&amp;vCenter=true&amp;size=22&amp;pause=1000" style="max-width: 100%;"></a></i>
-</p>
-<p align="center" dir="auto">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=600&pause=1000&color=FF033E&random=false&width=435&lines=Hey+!+%F0%9F%91%8B+I+am+Vivek+Tiwari+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;I+am+a+%F0%9F%8E%93+Full-Stack+Web++Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%A4%93+Curious+to+learn+new+things+%E2%9C%A8" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=600&pause=1000&color=FF033E&random=false&width=435&lines=Hey+!+%F0%9F%91%8B+I+am+Vivek+Kumar+Tiwari+%F0%9F%A7%91%E2%80%8D%F0%9F%8E%93;I+am+a+%F0%9F%8E%93+Full-Stack+Web++Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%A4%93+Curious+to+learn+new+things+%E2%9C%A8" alt="Typing SVG" /></a></p>
 <hr>
 
 
