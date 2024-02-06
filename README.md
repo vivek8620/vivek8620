@@ -53,8 +53,6 @@
 <hr>
 
 <h3>⚡Hobbies and interests :</h3>
-
-
 <ol dir="auto">
 <li>
 <p dir="auto">Always interested in Coding &amp; new learnings 💫.</p>
@@ -70,12 +68,13 @@
 
 <h2 dir="auto">My top projects 📂</h2>
 <div dir="auto"><a herf="#"><img src="15.gif" alt="" height="300px"></a></div>
-
+</br>
 
 <p align="left" dir="auto">
-    <a href="https://github.com/shikhu51197/UsedCarbuyAssign">
-        <img src="https://camo.githubusercontent.com/f9be6b03a48d2459b9f96e03e0d2cff94cabca026ba973af8622c62eff3f2355/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5365636f6e645f48616e645f43617226636f6c6f723d303030303030266c6f676f3d4e696b65266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Second_Hand_Car-Clone" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Second_Hand_Car&amp;color=000000&amp;logo=Nike&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;">
+    <a href="https://github.com/vivek8620/E-Commerce-Website.git">
+<img src="https://camo.githubusercontent.com/f9be6b03a48d2459b9f96e03e0d2cff94cabca026ba973af8622c62eff3f2355/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5365636f6e645f48616e645f43617226636f6c6f723d303030303030266c6f676f3d4e696b65266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="E-Commerce-Website" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Second_Hand_Car&amp;color=000000&amp;logo=Nike&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;">
     </a>
+  
     <a href="https://github.com/shikhu51197/clonehome">
         <img src="https://camo.githubusercontent.com/80134b34cae1707169ac488fbb2f7dcdbcf1a6ae14b35c8cf8a3a7ec8a3001ec/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d6769742d4e6574776973745f4c61796f757426636f6c6f723d314242393146266c6f676f3d746d7578266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="git-Netwist_Layout" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=git-Netwist_Layout&amp;color=1BB91F&amp;logo=tmux&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;">
     </a>
