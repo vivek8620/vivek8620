@@ -1,4 +1,4 @@
-<a herf="#"><img src="12.gif" style="max-width:100% height="400px";"></a>
+<a herf="#"><img src="12.gif" style="max-width:100% height="400";"></a>
 <hr>
 </div>
 <p align="center" dir="auto">
