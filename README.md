@@ -28,7 +28,7 @@
 <h2>🔗Profile Links✨</h2>
 <div class="data"><a herf="#"><img src="13.gif"></a></div>
 </br>
-<table width="900">
+<table width="1000">
 <thead>
 <tr>
 <th>Resume</th>
