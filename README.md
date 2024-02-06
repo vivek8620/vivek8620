@@ -70,7 +70,7 @@
 <div dir="auto"><a herf="#"><img src="15.gif" alt="" height="300px"></a></div>
 </br>
 
-<div align="left" dir="auto" backgrpund-color="orange">
+<div align="left" dir="auto" backgrpund-color="orange" border="solid 3px">
     <a href="https://github.com/vivek8620/E-Commerce-Website.git">E-Commerce-Website</a></div>
 
     
