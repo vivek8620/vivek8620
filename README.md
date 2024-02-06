@@ -68,10 +68,10 @@
 </ol>
 <hr>
 
-<h2 dir="auto">My top projects</h2>
-<div dir="auto"><a herf="#"><img src="15.gif" alt="" height="400px"></a></div>
+<h2 dir="auto">My top projects 📂</h2>
+<div dir="auto"><a herf="#"><img src="15.gif" alt="" height="300px"></a></div>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/107506646/277670661-434e9318-2e87-4645-b401-06dbe2cc0069.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyMDI4MTgsIm5iZiI6MTcwNzIwMjUxOCwicGF0aCI6Ii8xMDc1MDY2NDYvMjc3NjcwNjYxLTQzNGU5MzE4LTJlODctNDY0NS1iNDAxLTA2ZGJlMmNjMDA2OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwNlQwNjU1MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZGRiNjk3ODAxZDJjZmExYTU1ZjVjZjc2NTM3NDZkMjcxMGJiMmJlOTJkOGUxNzMwOWFkYjBlMjU2OWQzOWNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.zwKUxA0Wslnxw6Bz-k8p0exBjyPz-HEeaTYHXMRAbgQ"><img src="https://private-user-images.githubusercontent.com/107506646/277670661-434e9318-2e87-4645-b401-06dbe2cc0069.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDcyMDI4MTgsIm5iZiI6MTcwNzIwMjUxOCwicGF0aCI6Ii8xMDc1MDY2NDYvMjc3NjcwNjYxLTQzNGU5MzE4LTJlODctNDY0NS1iNDAxLTA2ZGJlMmNjMDA2OS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIwNlQwNjU1MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZGRiNjk3ODAxZDJjZmExYTU1ZjVjZjc2NTM3NDZkMjcxMGJiMmJlOTJkOGUxNzMwOWFkYjBlMjU2OWQzOWNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.zwKUxA0Wslnxw6Bz-k8p0exBjyPz-HEeaTYHXMRAbgQ" alt="beam-web-design-program-on-laptop-screen" data-animated-image="" style="max-width: 100%;"></a></p>
+
 <p align="left" dir="auto">
     <a href="https://github.com/shikhu51197/UsedCarbuyAssign">
         <img src="https://camo.githubusercontent.com/f9be6b03a48d2459b9f96e03e0d2cff94cabca026ba973af8622c62eff3f2355/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5365636f6e645f48616e645f43617226636f6c6f723d303030303030266c6f676f3d4e696b65266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Second_Hand_Car-Clone" data-canonical-src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Second_Hand_Car&amp;color=000000&amp;logo=Nike&amp;logoColor=FFFFFF&amp;label=" style="max-width: 100%;">
