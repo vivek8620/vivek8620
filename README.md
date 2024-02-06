@@ -54,8 +54,8 @@
 <h3>🔗 💁‍♀️contact us:-</h3>
 
 <br>
-<p dir="auto data-aos="fade-up" data-aos-delay="100"">
-    <a title="sg780060@gmail.com" href="mailto:sg780060@gmail.com">
+<p dir="auto">
+    <a title="tvivek2021@gmail.com" href="tvivek2021@gmail.com">
         <img align="center" src="https://camo.githubusercontent.com/00ba247349356f2b560ce58661f0a89db9925bbbf852c4541f104aa175becdfa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d6662636562313f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d666632303532" alt="sg780060@gmail.com" data-canonical-src="https://img.shields.io/badge/Gmail-fbceb1?style=for-the-badge&amp;logo=gmail&amp;logoColor=ff2052" style="max-width: 100%;">
     </a>
   </p>
