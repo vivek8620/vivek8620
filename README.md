@@ -27,7 +27,7 @@
 
 <h2>🔗Profile Links✨</h2>
 
-<table alt="" max-width="100%">
+<table alt="" width="100%">
 <thead>
 <tr>
 <th>Resume</th>
