@@ -51,30 +51,8 @@
 </tbody>
 </table>
 <hr>
-<h3>🌐 Socials:</h3>
+<h3>🔗 💁‍♀️contact us:-</h3>
 
-
-
-
-
-
-
-<p dir="auto"><a href="https://www.linkedin.com/in/shikha-gupta-12a2b5199" rel="nofollow"><img                                                                                    src="https://camo.githubusercontent.com/beeba85cb2847d4e48b05d1e46285b9de29a6933233563c78022d2de89fc44b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f7374796c653d706c6173746963266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
-  
-<a href="https://leetcode.com/sg780060" rel="nofollow"><img src="https://camo.githubusercontent.com/ad9252aecb0886454e77fa4f8ad238fb9a696010c2f2a9535a6802efba26f7d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c656574636f64652d4645374131363f7374796c653d706c6173746963266c6f676f3d6c656574636f6465266c6f676f436f6c6f723d7768697465" alt="Leetcode" data-canonical-src="https://img.shields.io/badge/-leetcode-FE7A16?style=plastic&amp;logo=leetcode&amp;logoColor=white" style="max-width: 100%;"></a> 
-
-<a href="https://twitter.com/shikhag61708689" rel="nofollow"><img                                                                 src="https://camo.githubusercontent.com/930fc322b288016c6df4963684cf261c29c81799eddde491bd298f7fe94b887f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2532333144413146322e7376673f7374796c653d706c6173746963266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=plastic&amp;logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a> 
-
-<a href="www.youtube.com/@vivektiwari9878" rel="nofollow"><img src="https://camo.githubusercontent.com/28b530ab21c1a2002143c52e77f5a408c0dbe387b51eb9e26cb67b488a11432b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f7374796c653d706c6173746963266c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465" alt="YouTube" data-canonical-src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&amp;logo=YouTube&amp;logoColor=white" style="max-width: 100%;"></a> 
-
-<a href="https://codepen.io/shikhu51197" rel="nofollow"><img src="https://camo.githubusercontent.com/9b39ac6e804e5619fbdb593b9d493bcdeb4c6b074d1d0f4201cf2ecc7af474d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f646570656e2d6666653133352e7376673f7374796c653d706c6173746963266c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465" alt="Codepen" data-canonical-src="https://img.shields.io/badge/codepen-ffe135.svg?style=plastic&amp;logo=codepen&amp;logoColor=white" style="max-width: 100%;"></a> 
-
-<a href="https://codesandbox.io/u/shikhu51197" rel="nofollow"><img src="https://camo.githubusercontent.com/b990d83ac25cb53b51d54e12687be4a42710a6859272deb2b33c7d12b4d029fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d636f646573616e64626f782d3864623630303f7374796c653d706c6173746963266c6f676f3d636f646573616e64626f78266c6f676f436f6c6f723d7768697465" alt="Codesandbox" data-canonical-src="https://img.shields.io/badge/-codesandbox-8db600?style=plastic&amp;logo=codesandbox&amp;logoColor=white" style="max-width: 100%;"></a> 
-
-<a href="https://www.hackerrank.com/sg780060?hr_r=1" rel="nofollow"><img src="https://camo.githubusercontent.com/a2ee808f6ba7df863d2e2c01e7fb747db73fdc26a8aad13dfda8259b534bf7f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6861636b657272616e6b2d3462353332302e7376673f7374796c653d706c6173746963266c6f676f3d6861636b657272616e6b266c6f676f436f6c6f723d7768697465" alt="Hackerrank" data-canonical-src="https://img.shields.io/badge/hackerrank-4b5320.svg?style=plastic&amp;logo=hackerrank&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
-                                                                                            
-<h2 dir="auto"><a id="user-content--️contact-us-" class="anchor" aria-hidden="true" tabindex="-1" href="#-️contact-us-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>🔗 💁‍♀️contact us:-</h2>
 <br>
 <p dir="auto">
     <a title="sg780060@gmail.com" href="mailto:sg780060@gmail.com">
