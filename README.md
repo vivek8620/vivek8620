@@ -33,7 +33,6 @@
 <tr>
 <th>Resume</th>
 <th>Github</th>
-<th>Linkedin</th>
 <th>Portfolio</th>
 </tr>
 </thead>
