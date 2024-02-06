@@ -56,9 +56,7 @@
     <a href="https://github.com/shikhu51197">
         <img src="https://camo.githubusercontent.com/8426279f9fb31e993de0513c3c1236660f128bdfd0f09599e9e35af6d56a9d0b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7368696b68753531313937266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="shikhu51197" data-canonical-src="https://komarev.com/ghpvc/?username=shikhu51197&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
     </a>
-    <a href="https://github.com/shikhu51197?tab=followers">
-        <img src="https://camo.githubusercontent.com/e4a8561efdd945c85d73ca5c08744410162fafd87fbc9e03a4d92da250b6c556/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f7368696b687535313139373f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="followers-count" data-canonical-src="https://img.shields.io/github/followers/shikhu51197?label=Followers&amp;style=social" style="max-width: 100%;">
-    </a>
+   
 </p>
 <br>
 <hr>
