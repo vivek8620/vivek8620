@@ -26,8 +26,8 @@
 <hr>
 
 <h2>🔗Profile Links✨</h2>
-
-<table alt="" width="100%">
+<div alt="" width="100%">
+<table>
 <thead>
 <tr>
 <th>Resume</th>
@@ -49,3 +49,4 @@
 </tr>
 </tbody>
 </table>
+</div>
