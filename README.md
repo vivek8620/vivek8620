@@ -38,7 +38,7 @@
 <tbody>
 <tr>
   
-<td><a href="https://drive.google.com/file/d/1YE62u2ChjmlR-EKeqZ75UvFMg_KcY86T/view?usp=sharing" rel="nofollow"><img src="https://camo.githubusercontent.com/ecec2d09307174c65fbb29de88e14c205b3542d6b545abbbf7eab48917663474/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d795f526573756d652d4537353438303f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465" alt="Resume" data-canonical-src="https://img.shields.io/badge/my_Resume-E75480?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" style="max-width: 100%;"></a></td>
+<td><a href="https://drive.google.com/file/d/1BzqeRUd16u0EeRLvDhXvkdymE6pKdCQH/view?usp=sharing" rel="nofollow"><img src="https://camo.githubusercontent.com/ecec2d09307174c65fbb29de88e14c205b3542d6b545abbbf7eab48917663474/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d795f526573756d652d4537353438303f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f2d6669266c6f676f436f6c6f723d7768697465" alt="Resume" data-canonical-src="https://img.shields.io/badge/my_Resume-E75480?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" style="max-width: 100%;"></a></td>
   
 <td><a href="https://github.com/vivek8620"><img src="https://camo.githubusercontent.com/f1636061f03c930ad93a3c1eb61633dce4d238b4b3017d33e17b897e58e6b82e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="github" data-canonical-src="https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a></td>
   
