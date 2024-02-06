@@ -11,6 +11,22 @@
                             solutions that meet the needs of businesses and individuals. I have a strong foundation in
                             software development principles and practices, as well as experience in various
                             🛠️programming languages and.</p>
+                            
+<p>💻In my work, I prioritize collaboration and
+                            communication with my team and stakeholders to ensure that the software🌟I develop meets
+                            their expectations and requirements. I enjoy working in a fast-paced and challenging
+                            environment, and I am committed to delivering high-quality software solutions that
+                            exceed📂client expectations.</p>
+
+                        <p>
+                            🏅I Learnt Mearn Full Stack Web Development from Ducat IT Traning School🏡(India's first
+                            Skill
+                            building School "Driven by Outcomes, Fuelled by Ambitions.")</br></p>
+
+                        <p>If you are looking for a Software
+                            Developer who can⌛build innovative and high-quality software solutions, please⏰feel free to
+                            connect with me.</p>
+                            
 
 <h3 dir="auto"><a id="user-content-------im-a-passionate-and-enthusiastic---full-stack-web-developer-skilled-in-the-mern-stack-who-focuses-on-writing-clean-elegant-and-efficient-code" class="anchor" aria-hidden="true" tabindex="-1" href="#------im-a-passionate-and-enthusiastic---full-stack-web-developer-skilled-in-the-mern-stack-who-focuses-on-writing-clean-elegant-and-efficient-code"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
     <i>- I'm a passionate and enthusiastic 🤓  full-stack web developer skilled in the MERN stack who focuses on writing clean, elegant, and efficient code.</i>
