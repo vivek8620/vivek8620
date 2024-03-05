@@ -32,7 +32,7 @@
 <thead>
 <tr>
 <th>Resume</th>
-<th>Github</th>
+<th>Linkedin</th>
 <th>Portfolio</th>
 </tr>
 </thead>
@@ -43,7 +43,7 @@
   
 <td><a href="www.linkedin.com/in/vivek-tiwari-5ab4a4273"><img src="https://camo.githubusercontent.com/f1636061f03c930ad93a3c1eb61633dce4d238b4b3017d33e17b897e58e6b82e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a></td>
   
-<td><a href="https://github.com/vivek8620/Portfolio.git" rel="nofollow"><img src="https://camo.githubusercontent.com/0ae9c78f04926b91560d338a33b8a22c89b5e2c871ae2dcbd58a28bbeb478ef5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d795f706f7274666f6c696f2d3138413330333f7374796c653d666f722d7468652d6261646765266c6f676f3d696f6e6963266c6f676f436f6c6f723d7768697465" alt="portfolio" data-canonical-src="https://img.shields.io/badge/my_portfolio-18A303?style=for-the-badge&amp;logo=ionic&amp;logoColor=white" style="max-width: 100%;"></a></td>
+<td><a href="https://portfolio-1ek6.vercel.app/" rel="nofollow"><img src="https://camo.githubusercontent.com/0ae9c78f04926b91560d338a33b8a22c89b5e2c871ae2dcbd58a28bbeb478ef5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d795f706f7274666f6c696f2d3138413330333f7374796c653d666f722d7468652d6261646765266c6f676f3d696f6e6963266c6f676f436f6c6f723d7768697465" alt="portfolio" data-canonical-src="https://img.shields.io/badge/my_portfolio-18A303?style=for-the-badge&amp;logo=ionic&amp;logoColor=white" style="max-width: 100%;"></a></td>
 
 </tr>
 </tbody>
